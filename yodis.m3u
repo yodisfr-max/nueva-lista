@@ -102,6 +102,9 @@ http://181.78.201.70:8000/play/a0pg/index.m3u8
 #EXTINF:-1 tvg-id="dhe" tvg-name="DHE" tvg-logo="https://i.imgur.com/DHE.png" group-title="📚 Documentales",DHE
 http://181.119.86.68:8000/play/b006/index.m3u8
 
+#EXTINF:-1 tvg-id="dhe" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/DePelicula.png" group-title="🎬 Películas",De Película
+http://tecnotv.club/feb03/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv&f=.m3u8
+
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="👶 Infantil",Discovery Kids
 http://181.119.85.222:8000/play/a009/index.m3u8
 
@@ -367,4 +370,5 @@ http://181.78.201.70:8000/play/a0oz/index.m3u8
 http://181.78.201.70:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-id="venus" tvg-name="Venus" tvg-logo="https://i.imgur.com/Venus.png" group-title="🔞 Adultos",Venus
+
 http://179.51.136.19:8000/play/a1h5/index.m3u8 
